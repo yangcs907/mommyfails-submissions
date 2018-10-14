@@ -1,15 +1,16 @@
 {
-  "name": "mommyfailsnew",
+  "name": "mommyfails-story-submissions",
   "version": "0.1.0",
+  "engines": {
+    "node": "10.1.0"
+  },
   "private": true,
   "dependencies": {
     "firebase": "^5.5.4",
-    "mime": "^2.3.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "2.0.4",
-    "yarn": "^1.12.0"
+    "react-scripts": "2.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
